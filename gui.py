@@ -3,7 +3,6 @@ from tkinter import messagebox
 from tkinter import filedialog
 import PIL.Image
 
-
 # Yeniden boyutlandırma fonksiyonu
 
 
